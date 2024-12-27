@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_img.jpg"
+  avatar           : "profile1.png"
   name             : "Tram Anh"
   pronouns         : # example: "she/her"  
   bio              : "Cybersecurity student specializing in penetration testing"
